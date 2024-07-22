@@ -9,6 +9,8 @@
 ## OVERVIEW OF THE PROJECT
 
 ### Project: "QUIZ GAME" 
+![Screenshot 2024-07-22 155303](https://github.com/user-attachments/assets/ba2a8510-2732-404e-8fb4-a72bca154c4b)
+
 
 
 
